@@ -13,10 +13,10 @@
           "architecture": "stm32",
           "version": "2.1.1",
           "category": "Contributed",
-          "url": "http://www.inex.co.th/store/arduino_stm32_addon/INEXSTM32-2.4.0.tar.bz2",
-          "archiveFileName": "INEXSTM32-2.4.0.tar.bz2",
-          "checksum": "SHA-256:0db3f524306c0cc5830cd0e5724058c98d4dba56e2c7ff44128a24a63dcaa214",
-          "size": "42569441",
+          "url": "https://github.com/iBuilds/ArduinoSTM32/blob/main/PTBOT_STM32_2.1.1.zip?raw=true",
+          "archiveFileName": "PTBOT_STM32_2.1.1.zip",
+          "checksum": "SHA-256:116c325cedfb6b9889052f50cf7459c63e6108578ad93a084ed90fd6ef504de2",
+          "size": "9865806",
           "boards": [
             {"name": "PT-BOT KidsBIT Robot Pro"}
           ],
