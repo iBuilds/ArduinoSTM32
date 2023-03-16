@@ -15,7 +15,7 @@
           "category": "Contributed",
           "url": "https://github.com/iBuilds/ArduinoSTM32/blob/main/PTBOT_STM32_2.1.1.zip?raw=true",
           "archiveFileName": "PTBOT_STM32_2.1.1.zip",
-          "checksum": "SHA-256:8608b5dd72516d6263cfad5ff45ca130e7b5914f2ae1da3ae7f14f3a44682289",
+          "checksum": "SHA-256:f9cac2b65a702687b4c5816be51879a24a7bade96305ae89bc4696eb04633ad4",
           "size": "10191985",
           "boards": [
             {"name": "PT-BOT KidsBIT Robot Pro"}
