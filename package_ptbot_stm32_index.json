@@ -127,6 +127,36 @@
               "version": "5.7.0"
             }
           ]
+        },
+        {
+          "name": "PTBOT_STM32",
+          "architecture": "stm32",
+          "version": "2.1.5",
+          "category": "Contributed",
+          "url": "https://github.com/iBuilds/ArduinoSTM32/blob/main/PTBOT_STM32_2.1.5.zip?raw=true",
+          "archiveFileName": "PTBOT_STM32_2.1.5.zip",
+          "checksum": "SHA-256:e474c6f4db48618a7524f53deaf9c18b2608746d938a48acef27787d9ffcbbf9",
+          "size": "10551584",
+          "boards": [
+            {"name": "PT-BOT KidsBIT Robot Pro"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "PTBOT_STM32",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "10.3.1-2.3"
+            },
+            {
+              "packager": "PTBOT_STM32",
+              "name": "STM32Tools",
+              "version": "2.1.1"
+            },
+            {
+              "packager": "PTBOT_STM32",
+              "name": "CMSIS",
+              "version": "5.7.0"
+            }
+          ]
         }
       ],
       "tools": [
